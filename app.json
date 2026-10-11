@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Cafe",
+    "slug": "cafe",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "android": {
+      "package": "com.assignment.cafe"
+    },
+    "ios": {
+      "bundleIdentifier": "com.assignment.cafe",
+      "supportsTablet": true
+    }
+  }
+}

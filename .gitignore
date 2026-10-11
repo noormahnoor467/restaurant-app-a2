@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+dist/
+.tools/
+.vs/
+test-results/
+playwright-report/
+*.log
+.env
+server/.env
